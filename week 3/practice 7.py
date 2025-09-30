@@ -1,0 +1,6 @@
+a=("Universidade NOVA de Lisboa")
+print(a)
+b=a.upper()
+print(b)
+c=a.lower()
+print(c)

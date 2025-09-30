@@ -1,0 +1,6 @@
+ann_core.py and gui_app.py are the codes required to run the program. 
+
+ __pycache__ stores the programs logs in it.
+
+If the gui_app.py isn't working properly, disable the antivirus, as it may see the executable file as a threat and remove it. So please,
+-disable antivirus, then unzip
