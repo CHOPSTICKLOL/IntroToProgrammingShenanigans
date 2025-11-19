@@ -1,6 +1,7 @@
-a=[int(input("pls add integer"))for i in range(4)]
-max=a[0]
-for i in a:
-    if i>max:
-        max=i
+list=[int(input("Enter your ints")) for i in range(4)]
+print(list)
+max= list[0]
+for element in list:
+    if element > max:
+        max=element
 print(max)
